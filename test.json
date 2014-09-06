@@ -1,0 +1,108 @@
+[
+	{
+	"token": "asdf",
+	"userId": "charlie",
+	"deviceId": "charlies_phone",
+	"appId": "com.esri.collector",
+	"tracksActivityIds": [ "123", "345" ],
+	"geofencesActivityIds": [ "321", "543" ],
+	"locations": [
+		{
+		"latitude": 45.5679,
+		"longitude": -122.5789,
+		"accuracy": 5,
+		"activityIds": [ "123", "345", "321" ],
+		"geofences": [
+			{
+			"message": "ohai charlie.",
+			"activityId": "321",
+			"featureLayer": "https://esri.com/some_feature_layer/0",
+			"featureId": 12,
+			"action": { "type": "dwell" }
+			} ]
+		} ]
+	},
+	{
+	"token": "asdf",
+	"userId": "beverly",
+	"deviceId": "beverlys_tablet",
+	"appId": "com.esri.collector",
+	"tracksActivityIds": [ "123", "345" ],
+	"geofencesActivityIds": [ "321", "543" ],
+	"locations": [
+		{
+		"latitude": 45.5685,
+		"longitude": -122.5791,
+		"accuracy": 5,
+		"activityIds": [ "123", "345", "321" ],
+		"geofences": [
+			{
+			"message": "ohai beverly.",
+			"activityId": "321",
+			"featureLayer": "https://esri.com/some_feature_layer/0",
+			"featureId": 12,
+			"action": { "type": "dwell" }
+			} ]
+		},
+		{
+		"latitude": 45.5702,
+		"longitude": -122.4302,
+		"accuracy": 5,
+		"activityIds": [ "123", "345", "321" ],
+		"geofences": [
+			{
+			"message": "ohai beverly.",
+			"activityId": "321",
+			"featureLayer": "https://esri.com/some_feature_layer/0",
+			"featureId": 12,
+			"action": { "type": "dwell" }
+			} ]
+		} ]
+	},
+	{
+	"token": "asdf",
+	"userId": "alan",
+	"deviceId": "charlies_phone",
+	"appId": "com.esri.collector",
+	"tracksActivityIds": [ "123", "345" ],
+	"geofencesActivityIds": [ "321", "543" ],
+	"locations": [
+		{
+		"latitude": 45.5679,
+		"longitude": -122.5789,
+		"accuracy": 5,
+		"activityIds": [ "123", "345", "321" ],
+		"geofences": [
+			{
+			"message": "ohai charlie.",
+			"activityId": "321",
+			"featureLayer": "https://esri.com/some_feature_layer/0",
+			"featureId": 12,
+			"action": { "type": "dwell" }
+			} ]
+		} ]
+	},
+	{
+	"token": "asdf",
+	"userId": "wanda",
+	"deviceId": "charlies_phone",
+	"appId": "com.esri.collector",
+	"tracksActivityIds": [ "123", "345" ],
+	"geofencesActivityIds": [ "321", "543" ],
+	"locations": [
+		{
+		"latitude": 45.5679,
+		"longitude": -122.5789,
+		"accuracy": 5,
+		"activityIds": [ "123", "345", "321" ],
+		"geofences": [
+			{
+			"message": "ohai charlie.",
+			"activityId": "321",
+			"featureLayer": "https://esri.com/some_feature_layer/0",
+			"featureId": 12,
+			"action": { "type": "dwell" }
+			} ]
+		} ]
+	}
+]
